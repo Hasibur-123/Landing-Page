@@ -11,3 +11,9 @@ The **Coffee Shop Landing Page** is a modern, responsive website built using **H
 - Interactive product display with hover effects.
 - Contact form with basic validation.
 - Dynamic JavaScript functionalities for user interaction.
+
+👨‍💻 Author
+Hasibur Rahaman
+
+LinkedIn: linkedin.com/in/hasibur-rahaman
+GitHub: github.com/Hasibur123
